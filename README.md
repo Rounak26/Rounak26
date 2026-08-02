@@ -1,40 +1,73 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Ronak Bhagat</h1>
+<h3 align="center">A Computer Science student from India, building things with code & blockchain</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web3+%26+Blockchain+Enthusiast;Learning+Rust+%2B+Solidity+%2B+Anchor;I+think+I'm+funny+%F0%9F%8E%B2" alt="Typing SVG" />
+</p>
 
-<p align="left">My name is ronak bhagat and I'm a computer science and engineering student. from India</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rounak26&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Rounak26?label=Followers&style=social" alt="followers" />
+</p>
 
-###
+---
 
-<h2 align="left">About me A strong interest in blockchain technology and web3.
-</h2>
+### 🚀 About Me
 
-###
+- 🎓 Computer Science & Engineering student, India
+- 🔗 Strong interest in **Blockchain & Web3**
+- 📚 Currently learning **Smart Contracts, NFTs, dApps**
+- 🦀 Coding mostly in **Rust**, exploring how blockchain works under the hood
+- ⚡ Fun fact: I think I'm funny
 
-<p align="left">✨ <br>📚 I'm Currently, focused on learning about smart contracts, NFTs, decentralized apps and how JavaScript can be used in blockchain development.  <br>🎲 Fun fact: I think iam funny</p>
+---
 
-###
+### 🛠️ Tech Stack
 
-<h2 align="left">I code with  Python, JavaScript and exploring how blockchain works.</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anchor-512DA8?style=for-the-badge&logo=anchor&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src=https://pluspng.com/img-png/python-logo-png-open-2000.png height = "40" />
-  <img width="12" />
-  <img src=https://th.bing.com/th/id/OIP.bkbn2-K7c9rMBV5dvYXDrQHaIh?rs=1&pid=ImgDetMain height = "40"  />
-  <img width="12" />
-  <img src=https://th.bing.com/th/id/R.d109640fcdfe5fc3bf5373f8923a4eb6?rik=B1N%2bG1NysPvj4g&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjava-png-java-png-1446.png&ehk=3EdpWzPgWowOdtUBVKySmkDs9BbJ%2bSfhfwAbaUSB%2fac%3d&risl=&pid=ImgRaw&r=0 height = "40"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div> -->
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rounak26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rounak26&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rounak26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rounak26&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
